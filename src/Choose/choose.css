@@ -1,0 +1,13 @@
+.choose-img {
+  width: 100%;
+  max-width: 400px; /* Limits max size on large screens */
+  height: auto;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.feature-icon img {
+  display: block;
+}

@@ -1,0 +1,22 @@
+#img{
+    width:"80px";
+    height:"80px";
+    border:"1px solid white";
+    border-radius: 10px;
+}
+
+#card-ser:hover #img{
+    transition: all 0.4s ease-in;
+    background-color:rgba(62, 233, 62, 0.589);
+    color: #ffffff;
+}
+
+#serv{
+    width:600px; 
+    margin-top:100px;
+}
+ .service-section {
+  background-color: #f8f9fa;
+}
+
+

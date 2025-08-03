@@ -1,0 +1,9 @@
+
+.about-img {
+  width: 120%;        
+  max-width: 500px;     
+  height: auto;        
+  display: block;    
+  margin: 0 auto;      
+  object-fit: cover;    
+}

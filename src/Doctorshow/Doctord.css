@@ -1,0 +1,14 @@
+#switch{
+    position: absolute;
+    top: 250px;
+    left:180px;
+}
+#actsuc{
+  background-color: green;
+  border: none;
+}
+
+#actsec{
+    background-color: gray;
+    border: 0;
+}
